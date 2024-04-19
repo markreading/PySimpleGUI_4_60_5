@@ -1,0 +1,50 @@
+Metadata-Version: 2.1
+Name: pysimplegui-exemaker
+Version: 1.3.0
+Summary: A GUI Front-end to PyInstaller
+Home-page: https://github.com/MikeTheWatchGuy/PySimpleGUI
+Author: PySimpleGUI.org
+Author-email: info@PySimpleGUI.org
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows 
+Description-Content-Type: text/markdown
+Requires-Dist: PyInstaller
+Requires-Dist: pysimplegui
+
+# PySimpleGUI-exemaker
+
+## Introduction
+This package contains a GUI front-end to PyInstaller.  Use this tool to create EXE files from your python programs
+
+  ![snag-0086](https://user-images.githubusercontent.com/13696193/46968655-c2103200-d081-11e8-926f-d5f977e726f3.jpg)
+
+
+
+
+## Installing
+
+When you install PySimpleGUI-exemaker, it will install the other components that it requires. To install, on windows, type this into a command prompt:
+
+    pip install pysimplegui-exemaker
+
+
+## PySimpleGUI Project
+
+This program was built as a sample application of the PySimpleGUI GUI Framework.
+
+
+## Running the program
+
+After your pip install, type this into your command prompt:
+
+  python -m pysimplegui-exemaker.pysimplegui-exemaker
+
+
