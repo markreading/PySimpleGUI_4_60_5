@@ -4,9 +4,6 @@
 This is version 4.60.5, one of the latest versions before they made it license only.  If you want a nice gui package with no strings attached, here you are.
 
 The developers of PySimpleGUI have pulled all older versions, opting for 'licensed' variant for versions 5 and above.
-I respect the effort and time put into the writing of this code, code I have found very useful during my time writing guis for testing hardware.
-However, I disagree with the decision that a python package should need an account, license key, or even need to be paid for to use.
-I also think its really petty to pull all the older versions of the code, and essentially force everyone to use the latest version.
 
 ### How to install
 
